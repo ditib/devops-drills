@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Yarin Galmor - 4/3/24
 Diti Baitch 4/3/24
+=======
+Yarin Galmor - 4/3/24
+>>>>>>> 4739ef5bcf57b5edec922baf6edb165eee39ae0d
